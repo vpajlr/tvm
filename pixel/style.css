@@ -1,0 +1,17 @@
+.menubtn{
+width:150px;
+}
+.dropdownMenu{
+padding-left:0px;
+}
+.dropdown-toggle{
+width:100%;
+}
+.dropdown-menu{
+width:100%;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color:#fff;
+    background-color:#B75633;
+}
